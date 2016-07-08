@@ -6,3 +6,4 @@ Flask-WhooshAlchemy==0.56
 Flask-WTF==0.12
 simplejson==3.8.2
 WTForms==2.1
+gunicorn==19.6.0
