@@ -4,16 +4,5 @@ Flask-RESTful==0.3.5
 Flask-SQLAlchemy==2.1
 Flask-WhooshAlchemy==0.56
 Flask-WTF==0.12
-numpy==1.8.0rc1
-pbr==1.9.1
-py2app==0.7.3
-pycurl==7.43.0
-pyOpenSSL==0.13.1
-pyparsing==2.0.1
-python-dateutil==1.5
-scipy==0.13.0b1
 simplejson==3.8.2
-SQLAlchemy==1.0.12
-sqlalchemy-migrate==0.10.0
-sqlparse==0.1.19
 WTForms==2.1
