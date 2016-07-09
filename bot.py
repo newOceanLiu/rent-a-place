@@ -5,7 +5,7 @@ import requests
 app = Flask(__name__)
 
 VALIDATION_TOKEN = 'aijiajia'
-PAT = ''
+PAT = 'EAAYW62J5ODcBADa6pvBqHgoZBoW4bTw8ltDjK3ZAmUAWQ7JKsfZCc11YGoSS1lYhf5wBOZBtJc9ykpdZAv4VJm9Yi2Ss2cm9QCd8w5gRSSqUoCfPYZAjvz0sFKCrPusb4PsUMAJObAn97NNG3q3L3LltfsRo9McBInOfjfHQerqQZDZD'
 
 @app.route("/bot", methods=['GET'])
 def handle_verification():
