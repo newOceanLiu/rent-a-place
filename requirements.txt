@@ -7,3 +7,4 @@ Flask-WTF==0.12
 simplejson==3.8.2
 WTForms==2.1
 gunicorn==19.6.0
+requests==2.10.0
